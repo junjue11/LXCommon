@@ -1,0 +1,6 @@
+framework module LXCommon {
+  umbrella header "LXCommon.h"
+
+  export *
+  module * { export * }
+}
